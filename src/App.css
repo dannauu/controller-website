@@ -1,0 +1,25 @@
+body {
+ background-color: #1b1b1c !important
+}
+
+.searchBtn {
+  border-radius: 10px;
+  border: black solid 1px;
+}
+
+.searchInput {
+  border-radius: 10px;
+  border: black solid 1px;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
+}
+
+input {
+  text-align: center;
+}
+
+.navbar {
+  background-color: rgb(60, 60, 60);
+}
